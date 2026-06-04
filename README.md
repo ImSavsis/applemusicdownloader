@@ -1,6 +1,8 @@
+# Made By Savsis with <3 
+
 # nodex.pw song downloader
 
-качает с youtube / spotify / apple music, конвертирует на лету, вшивает обложку и теги
+качает с youtube / spotify / apple music, конвертирует если нужно, вшивает обложку и теги
 
 ---
 
